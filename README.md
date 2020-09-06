@@ -3,6 +3,6 @@
 | Filename    | SHA-256 Checksum                                                 |
 |-------------|------------------------------------------------------------------|
 | genesis.csv | 342ef4107a985b08a0be64a743b022b96a93ff825de830426025b92cbacce74a |
-| day1.csv    | 16ae824cd83ce888a295f24e82463f1210a55baada1c6f68f71c3b5ac3af4ebc |
+| day1.csv    | 0757176e05fc9b4588021dd468579a4176539e3c637fe44e0f7b32328d48dfc0 |
 | day2.csv    | aabf48872b7db3c2c830d7c803bbadda9b2001d0a307602113f56c137d8c11fc |
-| day3.csv    | cccbeb055a6356b613088d5401a39e5893bbfe4ea43c58b959cc108b851085a3 |
+| day3.csv    | ae67c000c1a7e364787bc2e99a48b2b6051464872316659df48633875856df07 |
