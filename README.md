@@ -1,4 +1,4 @@
-# dlt_demo
+# Distributed Ledger Technology Exploration Demo
 
 | Filename    | SHA-256 Checksum                                                 |
 |-------------|------------------------------------------------------------------|
