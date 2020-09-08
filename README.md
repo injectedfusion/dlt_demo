@@ -19,7 +19,7 @@ Hash      : 342ef4107a985b08a0be64a743b022b96a93ff825de830426025b92cbacce74a
 Path      : C:\Users\username\Downloads\dlt_demo\genesis.csv
 ```
 
-Linux & MacOS Terminal
+Linux Shell & MacOS Terminal
 ```shell
 shasum -a 256 genesis.csv
 
